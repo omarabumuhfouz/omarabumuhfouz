@@ -1,19 +1,6 @@
-
-<!--
-**omarabumuhfouz/omarabumuhfouz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # Hi there, I'm Omar! 👋
+
+> **I am always pursuing self-improvement and personal growth. I believe in staying sharp both mentally and physically to reach my full potential.** 🚀
 
 ### 🚀 I'm currently working on
 - Building high-performance **E-Commerce Microservices**.
@@ -24,14 +11,20 @@ Here are some ideas to get you started:
 #### Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=cs,cpp,js,ts,html,css)](https://skillicons.dev)
 
-#### Frameworks & Libraries
-[![My Skills](https://skillicons.dev/icons?i=dotnet)](https://skillicons.dev)
+#### Frameworks, Libraries & Infrastructure
+[![My Skills](https://skillicons.dev/icons?i=dotnet,docker,rabbitmq,redis,postgres,mongodb,linux,git,github)](https://skillicons.dev)
 
-#### Tools & Infrastructure
-[![My Skills](https://skillicons.dev/icons?i=docker,rabbitmq,redis,postman,vscode,visualstudio,git,github)](https://skillicons.dev)
+#### Specialized Tech & Architecture
+![gRPC](https://img.shields.io/badge/gRPC-5E7D7E?style=for-the-badge&logo=grpc&logoColor=white)
+![MediatR](https://img.shields.io/badge/MediatR-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![.NET MVC](https://img.shields.io/badge/.NET%20MVC-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 
-#### Specializations
-[![My Skills](https://skillicons.dev/icons?i=grpc,postgres)](https://skillicons.dev)
+---
+
+### ⚡ Fun Facts & Lifestyle
+- **Gym Enthusiast:** I love hitting the gym to stay fit and disciplined. 🏋️‍♂️
+- **Self-Improvement:** I am constantly learning new technologies and reading to enhance my mindset. 📚
+- **Always Improving:** I never settle for "good enough" and always strive for excellence in my code and my life. 🧠
 
 ---
 
