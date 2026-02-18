@@ -12,7 +12,7 @@
 [![My Skills](https://skillicons.dev/icons?i=cs,cpp,js,ts,html,css)](https://skillicons.dev)
 
 #### Frameworks, Libraries & Infrastructure
-[![My Skills](https://skillicons.dev/icons?i=dotnet,docker,rabbitmq,redis,postgres,mongodb,linux,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,docker,rabbitmq,redis,linux,git,github)](https://skillicons.dev)
 
 #### Specialized Tech & Architecture
 ![gRPC](https://img.shields.io/badge/gRPC-5E7D7E?style=for-the-badge&logo=grpc&logoColor=white)
