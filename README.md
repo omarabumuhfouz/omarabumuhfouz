@@ -22,16 +22,16 @@ Here are some ideas to get you started:
 ### 🛠 Technical Skills
 
 #### Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=cs,cpp,py,js,ts,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,cpp,js,ts,html,css)](https://skillicons.dev)
 
 #### Frameworks & Libraries
-[![My Skills](https://skillicons.dev/icons?i=dotnet,react,angular)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet)](https://skillicons.dev)
 
 #### Tools & Infrastructure
 [![My Skills](https://skillicons.dev/icons?i=docker,rabbitmq,redis,postman,vscode,visualstudio,git,github)](https://skillicons.dev)
 
 #### Specializations
-[![My Skills](https://skillicons.dev/icons?i=grpc,postgres,mongodb,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=grpc,postgres)](https://skillicons.dev)
 
 ---
 
