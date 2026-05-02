@@ -18,18 +18,32 @@ Software Engineering Student and Full-Stack Developer focused on building scalab
 [![My Skills](https://skillicons.dev/icons?i=cs,cpp,js,ts,html,css)](https://skillicons.dev)
 
 #### Tools & Libraries 
-
 <p align="left">
-
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=visualstudio,vscode,docker,postman,redis,rabbitmq,github,bootstrap"/></a>
-
-  
-
+  <!-- General Tools -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,docker,postman,redis,rabbitmq,github,bootstrap" />
+  </a>
+  <br>
+ 
   <a><img title="Seq" width="50" height="50" src="https://github.com/HordeBies/HordeBies/assets/73644073/abce2e5e-741e-4fec-a9f2-da3214518d0c" alt="seq"/></a>
+  <a><img title="Swagger" width="50" height="50" src="https://github.com/HordeBies/HordeBies/assets/73644073/ad515d04-021e-4a43-b927-a1445c1e2b2d" alt="swagger"/></a>
+  <a><img title="MediatR" width="50" height="50" src="https://raw.githubusercontent.com/jbogard/MediatR/master/docs/logo/gradient_128x128.png" alt="mediatr"/></a>
+  <a><img title="gRPC" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grpc/grpc-plain.svg" alt="grpc"/></a>
+  <a><img title="FluentValidation" width="50" height="50" src="https://fluentvalidation.net/assets/images/logo.png" alt="fluentvalidation"/></a>
+  <a><img title="Dapper" width="50" height="50" src="https://raw.githubusercontent.com/DapperLib/Dapper/main/Dapper.png" alt="dapper"/></a>
+  <a><img title="SignalR" width="50" height="50" src="https://raw.githubusercontent.com/dotnet/aspnetcore/main/src/SignalR/docs/specs/signalr-logo.png" alt="signalr"/></a>
+  <br>
+ 
+  
+</p>
 
-    <a><img title="Swagger" width="50" height="50" src="https://github.com/HordeBies/HordeBies/assets/73644073/ad515d04-021e-4a43-b927-a1445c1e2b2d" alt="swagger"/></a>
-
-  <a><img title="Blazor" width="50" height="50" src="https://github.com/HordeBies/HordeBies/assets/73644073/0fa37e73-c89e-4976-987d-78c6f5f395ae" alt="blazor"/></a>
+#### Databases
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+  </a>
+  <a><img title="SQL Server" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sqlserver"/></a>
+</p>
 
 #### Specialized Tech & Architecture
 ![gRPC](https://img.shields.io/badge/gRPC-5E7D7E?style=for-the-badge&logo=grpc&logoColor=white)
