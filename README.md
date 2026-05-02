@@ -20,40 +20,35 @@ Software Engineering Student and Full-Stack Developer focused on building scalab
 #### Tools & Libraries 
 <p align="left">
   <!-- Standard Tools -->
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=visualstudio,vscode,docker,postman,redis,rabbitmq,github,bootstrap"/></a>
-  <br>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=visualstudio,vscode,docker,postman,redis,rabbitmq,github,bootstrap,azure,elasticsearch,grafana,prometheus"/></a>
+  <br><br>
   <!-- Specialized .NET Libraries & Architecture -->
-  <a><img title="MediatR" width="50" height="50" src="https://raw.githubusercontent.com/jbogard/MediatR/master/docs/logo/gradient_128x128.png" alt="mediatr"/></a>
-  <a><img title="gRPC" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grpc/grpc-plain.svg" alt="grpc"/></a>
-  <a><img title="CQRS" width="50" height="50" src="https://raw.githubusercontent.com/dotnet-architecture/eShopOnContainers/dev/img/cqrs.png" alt="cqrs"/></a>
-  <a><img title="AutoMapper" width="50" height="50" src="https://raw.githubusercontent.com/AutoMapper/AutoMapper/master/docs/img/logo.png" alt="automapper"/></a>
-  <a><img title="Serilog" width="50" height="50" src="https://raw.githubusercontent.com/serilog/serilog/main/assets/serilog-logo-128.png" alt="serilog"/></a>
-  <a><img title="xUnit" width="50" height="50" src="https://raw.githubusercontent.com/xunit/xunit/main/assets/xunit-logo-128.png" alt="xunit"/></a>
-  <a><img title="MassTransit" width="50" height="50" src="https://raw.githubusercontent.com/MassTransit/MassTransit/master/MassTransit.png" alt="masstransit"/></a>
-  <a><img title="MOQ" width="50" height="50" src="https://raw.githubusercontent.com/moq/moq4/main/Logo.png" alt="moq"/></a>
-  <a><img title="JWT" width="50" height="50" src="https://jwt.io/img/pic_logo.svg" alt="jwt"/></a>
-  <a><img title="Ocelot" width="50" height="50" src="https://raw.githubusercontent.com/ThreeMammals/Ocelot/master/ocelot.png" alt="ocelot"/></a>
-  <a><img title="Polly" width="50" height="50" src="https://raw.githubusercontent.com/App-vNext/Polly/master/Polly.png" alt="poly"/></a>
-  <a><img title="SignalR" width="50" height="50" src="https://raw.githubusercontent.com/dotnet/aspnetcore/main/src/SignalR/docs/specs/signalr-logo.png" alt="signalr"/></a>
-  <a><img title="Fluent Validation" width="50" height="50" src="https://fluentvalidation.net/assets/images/logo.png" alt="fluentvalidation"/></a>
+  <img src="https://img.shields.io/badge/MediatR-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="MediatR" />
+  <img src="https://img.shields.io/badge/gRPC-5E7D7E?style=for-the-badge&logo=grpc&logoColor=white" alt="gRPC" />
+  <img src="https://img.shields.io/badge/CQRS-000000?style=for-the-badge&logo=architecture&logoColor=white" alt="CQRS" />
+  <img src="https://img.shields.io/badge/AutoMapper-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="AutoMapper" />
+  <img src="https://img.shields.io/badge/Serilog-37A3AD?style=for-the-badge&logo=serilog&logoColor=white" alt="Serilog" />
+  <img src="https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="xUnit" />
+  <img src="https://img.shields.io/badge/MassTransit-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="MassTransit" />
+  <img src="https://img.shields.io/badge/MOQ-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="MOQ" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=000000&labelColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/Ocelot-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="Ocelot" />
+  <img src="https://img.shields.io/badge/Polly-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="Polly" />
+  <img src="https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="SignalR" />
+  <img src="https://img.shields.io/badge/Fluent_Validation-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="Fluent Validation" />
+  <br><br>
+  <!-- Static Icons for Swagger/Seq/Blazor -->
+  <a><img title="Swagger" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" alt="swagger"/></a>
+  <a><img title="Blazor" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blazor/blazor-original.svg" alt="blazor"/></a>
   <a><img title="Seq" width="50" height="50" src="https://github.com/HordeBies/HordeBies/assets/73644073/abce2e5e-741e-4fec-a9f2-da3214518d0c" alt="seq"/></a>
-  <a><img title="Swagger" width="50" height="50" src="https://github.com/HordeBies/HordeBies/assets/73644073/ad515d04-021e-4a43-b927-a1445c1e2b2d" alt="swagger"/></a>
 </p>
 
 #### Databases
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-  </a>
   <a><img title="SQL Server" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sqlserver"/></a>
 </p>
 
-#### Specialized Tech & Architecture
-![gRPC](https://img.shields.io/badge/gRPC-5E7D7E?style=for-the-badge&logo=grpc&logoColor=white)
-![MediatR](https://img.shields.io/badge/MediatR-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![.NET MVC](https://img.shields.io/badge/.NET%20MVC-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 
----
 
 ### ⚡ Fun Facts & Lifestyle
 - **Gym Enthusiast:** I love hitting the gym to stay fit and disciplined. 🏋️‍♂️
