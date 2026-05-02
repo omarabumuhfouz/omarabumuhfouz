@@ -39,7 +39,6 @@ Software Engineering Student and Full-Stack Developer focused on building scalab
   <br><br>
   <!-- Static Icons for Swagger/Seq/Blazor -->
   <a><img title="Swagger" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" alt="swagger"/></a>
-  <a><img title="Blazor" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blazor/blazor-original.svg" alt="blazor"/></a>
   <a><img title="Seq" width="50" height="50" src="https://github.com/HordeBies/HordeBies/assets/73644073/abce2e5e-741e-4fec-a9f2-da3214518d0c" alt="seq"/></a>
 </p>
 
