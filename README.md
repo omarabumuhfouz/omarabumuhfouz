@@ -20,7 +20,9 @@ Software Engineering Student and Full-Stack Developer focused on building scalab
 #### Tools & Libraries 
 <p align="left">
   <!-- Standard Tools -->
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=visualstudio,vscode,docker,postman,redis,rabbitmq,github,bootstrap,azure,elasticsearch,grafana,prometheus"/></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=visualstudio,vscode,docker,postman,redis,rabbitmq,github,bootstrap,"/></a>
+  <a><img title="Swagger" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" alt="swagger"/></a>
+  <a><img title="Seq" width="50" height="50" src="https://github.com/HordeBies/HordeBies/assets/73644073/abce2e5e-741e-4fec-a9f2-da3214518d0c" alt="seq"/></a>
   <br><br>
   <!-- Specialized .NET Libraries & Architecture -->
   <img src="https://img.shields.io/badge/MediatR-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="MediatR" />
@@ -37,9 +39,20 @@ Software Engineering Student and Full-Stack Developer focused on building scalab
   <img src="https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="SignalR" />
   <img src="https://img.shields.io/badge/Fluent_Validation-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="Fluent Validation" />
   <br><br>
-  <!-- Static Icons for Swagger/Seq/Blazor -->
-  <a><img title="Swagger" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" alt="swagger"/></a>
+
   <a><img title="Seq" width="50" height="50" src="https://github.com/HordeBies/HordeBies/assets/73644073/abce2e5e-741e-4fec-a9f2-da3214518d0c" alt="seq"/></a>
+    <a><img title="Swagger" width="50" height="50" src="https://github.com/HordeBies/HordeBies/assets/73644073/ad515d04-021e-4a43-b927-a1445c1e2b2d" alt="swagger"/></a>
+    <a><img title="gRPC" width="50" height="50" src="https://github.com/HordeBies/HordeBies/assets/73644073/02d1f5b3-b977-4a21-9e70-6f7b82eee126" alt="grpc"/></a>
+    <a><img title="CQRS" width="50" height="50" src="https://github.com/HordeBies/HordeBies/assets/73644073/89a7847b-28de-4a69-8079-008c11cee803" alt="cqrs"/></a>
+    <a><img title="AutoMapper" width="50" height="50" src="https://github.com/HordeBies/HordeBies/assets/73644073/d561e1b0-41ac-4b6a-8e05-e4f73979c77b" alt="automapper"/></a>
+    <a><img title="Seilog" width="50" height="50" src="https://github.com/HordeBies/HordeBies/assets/73644073/8b64c1b5-24bd-4650-bc89-01d3f5c32380" alt="serilog"/></a>
+    <a><img title="xUnit" width="50" height="50" src="https://github.com/HordeBies/HordeBies/assets/73644073/2879e766-f35b-4706-925d-3ac88ada2942" alt="xunit"/></a>
+    <a><img title="MassTransit" width="50" height="50" src="https://github.com/HordeBies/HordeBies/assets/73644073/9143e34e-cad8-4070-96fd-34649d3b58b3" alt="masstransit"/></a>
+    <a><img title="MOQ" width="50" height="50" src="https://github.com/HordeBies/HordeBies/assets/73644073/6805bbdb-dd8f-48d0-abc4-d024e611d317" alt="moq"/></a>
+    <a><img title="Dapper" width="50" height="50" src="https://github.com/HordeBies/HordeBies/assets/73644073/0ea835f9-b059-425f-95e1-fb71843a7f6a" alt="dapper"/></a>
+    <a><img title="JWT" width="50" height="50" src="https://github.com/HordeBies/HordeBies/assets/73644073/95b69b64-77f6-464f-84bf-0754c49345ea" alt="jwt"/></a>
+    <a><img title="Ocelot" width="50" height="50" src="https://github.com/HordeBies/HordeBies/assets/73644073/cafaf2c6-064a-43e7-a7f7-190a8b4037b7" alt="ocelot"/></a>
+    <a><img title="MediatR" width="50" height="50" src="https://github.com/HordeBies/HordeBies/assets/73644073/05e0b3f7-aeee-45d7-94d1-93594cfc4534" alt="mediatr"/></a>
 </p>
 
 #### Databases
