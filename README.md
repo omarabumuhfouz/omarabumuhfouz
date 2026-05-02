@@ -21,25 +21,6 @@ Software Engineering Student and Full-Stack Developer focused on building scalab
 <p align="left">
   <!-- Standard Tools -->
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=visualstudio,vscode,docker,postman,redis,rabbitmq,github,bootstrap,"/></a>
-  <a><img title="Swagger" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" alt="swagger"/></a>
-  <a><img title="Seq" width="50" height="50" src="https://github.com/HordeBies/HordeBies/assets/73644073/abce2e5e-741e-4fec-a9f2-da3214518d0c" alt="seq"/></a>
-  <br><br>
-  <!-- Specialized .NET Libraries & Architecture -->
-  <img src="https://img.shields.io/badge/MediatR-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="MediatR" />
-  <img src="https://img.shields.io/badge/gRPC-5E7D7E?style=for-the-badge&logo=grpc&logoColor=white" alt="gRPC" />
-  <img src="https://img.shields.io/badge/CQRS-000000?style=for-the-badge&logo=architecture&logoColor=white" alt="CQRS" />
-  <img src="https://img.shields.io/badge/AutoMapper-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="AutoMapper" />
-  <img src="https://img.shields.io/badge/Serilog-37A3AD?style=for-the-badge&logo=serilog&logoColor=white" alt="Serilog" />
-  <img src="https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="xUnit" />
-  <img src="https://img.shields.io/badge/MassTransit-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="MassTransit" />
-  <img src="https://img.shields.io/badge/MOQ-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="MOQ" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=000000&labelColor=white" alt="JWT" />
-  <img src="https://img.shields.io/badge/Ocelot-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="Ocelot" />
-  <img src="https://img.shields.io/badge/Polly-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="Polly" />
-  <img src="https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="SignalR" />
-  <img src="https://img.shields.io/badge/Fluent_Validation-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="Fluent Validation" />
-  <br><br>
-
   <a><img title="Seq" width="50" height="50" src="https://github.com/HordeBies/HordeBies/assets/73644073/abce2e5e-741e-4fec-a9f2-da3214518d0c" alt="seq"/></a>
     <a><img title="Swagger" width="50" height="50" src="https://github.com/HordeBies/HordeBies/assets/73644073/ad515d04-021e-4a43-b927-a1445c1e2b2d" alt="swagger"/></a>
     <a><img title="gRPC" width="50" height="50" src="https://github.com/HordeBies/HordeBies/assets/73644073/02d1f5b3-b977-4a21-9e70-6f7b82eee126" alt="grpc"/></a>
@@ -53,6 +34,10 @@ Software Engineering Student and Full-Stack Developer focused on building scalab
     <a><img title="JWT" width="50" height="50" src="https://github.com/HordeBies/HordeBies/assets/73644073/95b69b64-77f6-464f-84bf-0754c49345ea" alt="jwt"/></a>
     <a><img title="Ocelot" width="50" height="50" src="https://github.com/HordeBies/HordeBies/assets/73644073/cafaf2c6-064a-43e7-a7f7-190a8b4037b7" alt="ocelot"/></a>
     <a><img title="MediatR" width="50" height="50" src="https://github.com/HordeBies/HordeBies/assets/73644073/05e0b3f7-aeee-45d7-94d1-93594cfc4534" alt="mediatr"/></a>
+      <a><img title="Seilog" width="50" height="50" src="https://github.com/HordeBies/HordeBies/assets/73644073/8b64c1b5-24bd-4650-bc89-01d3f5c32380" alt="serilog"/></a>
+<a><img title="Polly" width="50" height="50" src="https://github.com/HordeBies/HordeBies/assets/73644073/eba35458-bddf-4608-beaa-9d1f6d58570e" alt="polly"/></a>
+    <a><img title="SignalR" width="50" height="50" src="https://github.com/HordeBies/HordeBies/assets/73644073/dd5a0998-a7b7-45b3-8091-b1e46668117d" alt="signalr"/></a>
+
 </p>
 
 #### Databases
