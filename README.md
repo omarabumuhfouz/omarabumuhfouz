@@ -19,22 +19,25 @@ Software Engineering Student and Full-Stack Developer focused on building scalab
 
 #### Tools & Libraries 
 <p align="left">
-  <!-- General Tools -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,docker,postman,redis,rabbitmq,github,bootstrap" />
-  </a>
+  <!-- Standard Tools -->
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=visualstudio,vscode,docker,postman,redis,rabbitmq,github,bootstrap"/></a>
   <br>
- 
-  <a><img title="Seq" width="50" height="50" src="https://github.com/HordeBies/HordeBies/assets/73644073/abce2e5e-741e-4fec-a9f2-da3214518d0c" alt="seq"/></a>
-  <a><img title="Swagger" width="50" height="50" src="https://github.com/HordeBies/HordeBies/assets/73644073/ad515d04-021e-4a43-b927-a1445c1e2b2d" alt="swagger"/></a>
+  <!-- Specialized .NET Libraries & Architecture -->
   <a><img title="MediatR" width="50" height="50" src="https://raw.githubusercontent.com/jbogard/MediatR/master/docs/logo/gradient_128x128.png" alt="mediatr"/></a>
   <a><img title="gRPC" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grpc/grpc-plain.svg" alt="grpc"/></a>
-  <a><img title="FluentValidation" width="50" height="50" src="https://fluentvalidation.net/assets/images/logo.png" alt="fluentvalidation"/></a>
-  <a><img title="Dapper" width="50" height="50" src="https://raw.githubusercontent.com/DapperLib/Dapper/main/Dapper.png" alt="dapper"/></a>
+  <a><img title="CQRS" width="50" height="50" src="https://raw.githubusercontent.com/dotnet-architecture/eShopOnContainers/dev/img/cqrs.png" alt="cqrs"/></a>
+  <a><img title="AutoMapper" width="50" height="50" src="https://raw.githubusercontent.com/AutoMapper/AutoMapper/master/docs/img/logo.png" alt="automapper"/></a>
+  <a><img title="Serilog" width="50" height="50" src="https://raw.githubusercontent.com/serilog/serilog/main/assets/serilog-logo-128.png" alt="serilog"/></a>
+  <a><img title="xUnit" width="50" height="50" src="https://raw.githubusercontent.com/xunit/xunit/main/assets/xunit-logo-128.png" alt="xunit"/></a>
+  <a><img title="MassTransit" width="50" height="50" src="https://raw.githubusercontent.com/MassTransit/MassTransit/master/MassTransit.png" alt="masstransit"/></a>
+  <a><img title="MOQ" width="50" height="50" src="https://raw.githubusercontent.com/moq/moq4/main/Logo.png" alt="moq"/></a>
+  <a><img title="JWT" width="50" height="50" src="https://jwt.io/img/pic_logo.svg" alt="jwt"/></a>
+  <a><img title="Ocelot" width="50" height="50" src="https://raw.githubusercontent.com/ThreeMammals/Ocelot/master/ocelot.png" alt="ocelot"/></a>
+  <a><img title="Polly" width="50" height="50" src="https://raw.githubusercontent.com/App-vNext/Polly/master/Polly.png" alt="poly"/></a>
   <a><img title="SignalR" width="50" height="50" src="https://raw.githubusercontent.com/dotnet/aspnetcore/main/src/SignalR/docs/specs/signalr-logo.png" alt="signalr"/></a>
-  <br>
- 
-  
+  <a><img title="Fluent Validation" width="50" height="50" src="https://fluentvalidation.net/assets/images/logo.png" alt="fluentvalidation"/></a>
+  <a><img title="Seq" width="50" height="50" src="https://github.com/HordeBies/HordeBies/assets/73644073/abce2e5e-741e-4fec-a9f2-da3214518d0c" alt="seq"/></a>
+  <a><img title="Swagger" width="50" height="50" src="https://github.com/HordeBies/HordeBies/assets/73644073/ad515d04-021e-4a43-b927-a1445c1e2b2d" alt="swagger"/></a>
 </p>
 
 #### Databases
